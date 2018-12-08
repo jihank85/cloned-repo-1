@@ -1,2 +1,4 @@
+# even number
 for i in range(1,5+1):
-    print("asdlkfasldfkashellow")
+    if i % 2 == 0:
+    	print("asdlkfasldfkashellow")
